@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Learn all about ```GNU coreutils``` here: (https://www.gnu.org/software/coreutils/manual/coreutils.html)[https://www.gnu.org/software/coreutils/manual/coreutils.html] 
+Learn all about ```GNU coreutils``` here: [https://www.gnu.org/software/coreutils/manual/coreutils.html](https://www.gnu.org/software/coreutils/manual/coreutils.html) 
 
 # Common utils:
 [tee](#tee)     
