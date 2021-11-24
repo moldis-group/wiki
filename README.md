@@ -1,1 +1,1 @@
-Source for the github page of the program [pople](https://moldis-group.github.io/pople/).
+Source for the github page of the program [https://moldis-group.github.io/Notes/](https://moldis-group.github.io/Notes/).
