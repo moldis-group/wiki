@@ -3,7 +3,8 @@ layout: default
 ---
 Learn all about ```GNU coreutils``` here: [https://www.gnu.org/software/coreutils/manual/coreutils.html](https://www.gnu.org/software/coreutils/manual/coreutils.html) 
 
-# Common utils:
+# Common utils and their common usage:   
+
 [tee](#tee)     
 [wc](#wc)    
 
