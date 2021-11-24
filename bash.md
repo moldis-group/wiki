@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Content:
-[1. Running the code](#running)      
+[1. Running the code](#bash01)      
    >[1.1 Parallel calculation](#parallel)  
        
 [2. Files](#files)       
@@ -18,6 +18,15 @@ layout: default
    >[5.3 Enthalpy of formation](#form_enthalpy)               
    >[5.4 Multiple calculations](#multip)           
  
+## <a name="bash01">1. Running the code</a>
+
+```bash
+export OMP_NUM_THREADS=1
+export PATH=/apps/openmpi-3.0.0_install/bin:$PATH
+export LD_LIBRARY_PATH=/apps/openmpi-3.0.0_install/lib:$LD_LIBRARY_PATH
+```
+
+
 ## <a name="running">1. Running the code</a>
 >> See [Installation](https://moldis-group.github.io/pople/installation.html) for installing the code. 
 >> The input file is a python script (see examples below) which may be executed as 
