@@ -3,7 +3,7 @@ layout: default
 ---
 Learn all about ```GNU coreutils``` here: (https://www.gnu.org/software/coreutils/manual/coreutils.html)[https://www.gnu.org/software/coreutils/manual/coreutils.html] 
 
-# Content:
+# Common utils:
 [wc](#wc)      
                  
 ## <a name="wc">wc</a>
