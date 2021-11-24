@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
+Learn all about ```GNU coreutils``` here: (https://www.gnu.org/software/coreutils/manual/coreutils.html)[https://www.gnu.org/software/coreutils/manual/coreutils.html] 
 
 # Content:
 [wc](#wc)      
                  
-Learn about ```GNU coreutils``` here: (https://www.gnu.org/software/coreutils/manual/coreutils.html)[https://www.gnu.org/software/coreutils/manual/coreutils.html] 
-
 ## <a name="wc">wc</a>
 
 ```bash
