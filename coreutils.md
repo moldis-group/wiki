@@ -15,7 +15,7 @@ wc -lwc file1 file2
 ```
 gives  the number of lines, words, and characters in file1 and file2 as well as both files combined 
 
-## <a name="tess">wc</a>
+## <a name="tee">tee</a>
 useful for redirecting standard output to a file
 
 ```bash
