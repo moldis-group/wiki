@@ -1,1 +1,1 @@
-Source for the github page [https://moldis-group.github.io/notes/](https://moldis-group.github.io/notes/)
+Source for the github page [https://moldis-group.github.io/wiki/](https://moldis-group.github.io/wiki/)
