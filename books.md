@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Here is a list of books that we use for group reading. A group member participating in all categories and completing at least one book from each category receives the title of Octuple champion.
+Here is a list of books that we use (or plan to use) for group reading. A group member participating in all categories and completing at least one book from each category receives the title of Octuple champion.
 
 ### Light welterweight (50-100 pages, duration: 1 semester)
 1. Stereoelectronic Effects (Oxford Chemistry Primers) -- A. J. Kirby      
@@ -14,6 +14,7 @@ Here is a list of books that we use for group reading. A group member participat
 ### Light middleweight (151-200 pages, duration: 1 semester)
 1. Molecular Symmetry and Group Theory: A Programmed Introduction to Chemical Applications -- Alan Vincent   
 2. Introduction to Crystallography -- Donald E. Sands   
+3. Introductory Numerical Analysis -- Anthony J Pettofrezzo   
 
 ### Middleweight (201-250 pages, duration: 1 semester)
 1. Grokking Algorithms: An illustrated guide for programmers and other curious people -- Aditya Bhargava   
