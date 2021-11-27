@@ -20,11 +20,13 @@ Here is a list of books that we use for group reading. A group member participat
 
 ### Light heavyweight (301-400 pages)
 1. Molecular Modelling for Beginners -- Alan Hinchcliffe    
+2. A Chemist's Guide to Density Functional Theory Paperback -- Wolfram Koch, Max C. Holthausen 
 
 ### Cruiserweight (401-500 pages)
 1. Thermodynamics, Kinetic Theory, and Statistical Thermodynamics -- Sears and Salinger   
+2. A Guidebook to Mechanism in Organic Chemistry Paperback -- Peter Sykes   
 
-### Heavyweight (500+ pages or technical) 
+### Heavyweight (500+ pages and/or with problem solving) 
 1. Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory -- Attila Szabo, Neil S. Ostlund   
 
 
