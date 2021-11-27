@@ -29,7 +29,7 @@ Here is a list of books that we use for group reading. A group member participat
 1. Thermodynamics, Kinetic Theory, and Statistical Thermodynamics -- Sears and Salinger   
 2. A Guidebook to Mechanism in Organic Chemistry Paperback -- Peter Sykes   
 
-### Heavyweight (500+ pages and/or with problem solving, duration: 2-3 semesters) 
+### Heavyweight (500+ pages or 450+ pages with problem solving, duration: 2-3 semesters) 
 1. Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory -- Attila Szabo, Neil S. Ostlund   
 2. States of Matter -- David L. Goodstein   
 
