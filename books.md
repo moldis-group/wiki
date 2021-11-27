@@ -9,6 +9,7 @@ Here is a list of books that we use for group reading. A group member participat
 ### Welterweight (101-150 pages, duration: 1 semester)
 1. Solids and Surfaces: A Chemist's View of Bonding in Extended Structures -- Roald Hoffmann   
 2. Pericyclic Reactions (Oxford Chemistry Primers) -- Ian Flemming
+3. Spins in Chemistry -- Roy Mcweeny
 
 ### Light middleweight (151-200 pages, duration: 1 semester)
 1. Molecular Symmetry and Group Theory: A Programmed Introduction to Chemical Applications -- Alan Vincent   
@@ -16,6 +17,7 @@ Here is a list of books that we use for group reading. A group member participat
 
 ### Middleweight (201-250 pages, duration: 1 semester)
 1. Grokking Algorithms: An illustrated guide for programmers and other curious people -- Aditya Bhargava   
+2. Symmetry: An Introduction to Group Theory and Its Applications -- Roy McWeeny    
 
 ### Super middleweight (251-300 pages, duration: 1 semester)
 1. The VSEPR Model of Molecular Geometry -- Ronald J Gillespie and Istvan Hargittai
