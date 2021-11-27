@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Here is a list of books that we use (or plan to use) for group reading. A group member participating in all categories and completing at least one book from each category receives the title of Octuple champion.
+Here is a list of books that we recommend for group reading. A group member completing at least one book from each category may be given the title "Octuple champion".
 
 ### Light welterweight (50-100 pages, duration: 1 semester)
 1. Stereoelectronic Effects (Oxford Chemistry Primers) -- A. J. Kirby      
