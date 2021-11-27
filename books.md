@@ -15,6 +15,8 @@ Here is a list of books that we use (or plan to use) for group reading. A group 
 1. Molecular Symmetry and Group Theory: A Programmed Introduction to Chemical Applications -- Alan Vincent   
 2. Introduction to Crystallography -- Donald E. Sands   
 3. Introductory Numerical Analysis -- Anthony J Pettofrezzo   
+4. Introduction to Stereochemistry -- Kurt Mislow   
+5. Symmetry in Chemistry -- Hans H. Jaffe, Milton Orchin    
 
 ### Middleweight (201-250 pages, duration: 1 semester)
 1. Grokking Algorithms: An illustrated guide for programmers and other curious people -- Aditya Bhargava   
@@ -23,6 +25,7 @@ Here is a list of books that we use (or plan to use) for group reading. A group 
 ### Super middleweight (251-300 pages, duration: 1 semester)
 1. The VSEPR Model of Molecular Geometry -- Ronald J Gillespie and Istvan Hargittai    
 2. Fundamentals of Molecular Spectroscopy -- Colin Banwell     
+3. Quantum Mechanics in Simple Matrix Forms -- Thomas F. Jordan    
 
 ### Light heavyweight (301-400 pages, duration: 2 semesters)
 1. Molecular Modelling for Beginners -- Alan Hinchcliffe    
