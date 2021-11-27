@@ -21,7 +21,8 @@ Here is a list of books that we use (or plan to use) for group reading. A group 
 2. Symmetry: An Introduction to Group Theory and Its Applications -- Roy McWeeny    
 
 ### Super middleweight (251-300 pages, duration: 1 semester)
-1. The VSEPR Model of Molecular Geometry -- Ronald J Gillespie and Istvan Hargittai
+1. The VSEPR Model of Molecular Geometry -- Ronald J Gillespie and Istvan Hargittai    
+2. Fundamentals of Molecular Spectroscopy -- Colin Banwell     
 
 ### Light heavyweight (301-400 pages, duration: 2 semesters)
 1. Molecular Modelling for Beginners -- Alan Hinchcliffe    
@@ -32,10 +33,12 @@ Here is a list of books that we use (or plan to use) for group reading. A group 
 ### Cruiserweight (401-500 pages, duration: 2 semesters)
 1. Thermodynamics, Kinetic Theory, and Statistical Thermodynamics -- Sears and Salinger   
 2. A Guidebook to Mechanism in Organic Chemistry Paperback -- Peter Sykes   
+3. Molecular Vibrations: The Theory of Infrared and Raman Vibrational Spectra -- E. Bright Wilson    
 
 ### Heavyweight (500+ pages or 450+ pages with problem solving, duration: 2-3 semesters) 
 1. Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory -- Attila Szabo, Neil S. Ostlund   
 2. States of Matter -- David L. Goodstein   
+3. Physical Chemistry -- Donald A. McQuarrie John D. Simon    
 
 
 
