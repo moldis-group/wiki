@@ -12,15 +12,18 @@ Here is a list of books that we use for group reading. A group member participat
 
 ### Light middleweight (151-200 pages)
 1. Molecular Symmetry and Group Theory: A Programmed Introduction to Chemical Applications -- Alan Vincent   
+2. Introduction to Crystallography -- Donald E. Sands   
 
 ### Middleweight (201-250 pages)
 1. Grokking Algorithms: An illustrated guide for programmers and other curious people -- Aditya Bhargava   
 
 ### Super middleweight (251-300 pages)
+1. The VSEPR Model of Molecular Geometry -- Ronald J Gillespie and Istvan Hargittai
 
 ### Light heavyweight (301-400 pages)
 1. Molecular Modelling for Beginners -- Alan Hinchcliffe    
 2. A Chemist's Guide to Density Functional Theory Paperback -- Wolfram Koch, Max C. Holthausen 
+3. Group Theory and Chemistry -- David M. Bishop    
 
 ### Cruiserweight (401-500 pages)
 1. Thermodynamics, Kinetic Theory, and Statistical Thermodynamics -- Sears and Salinger   
