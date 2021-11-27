@@ -3,33 +3,33 @@ layout: default
 ---
 Here is a list of books that we use for group reading. A group member participating in all categories and completing at least one book from each category receives the title of Octuple champion.
 
-### Light welterweight (50-100 pages)
+### Light welterweight (50-100 pages, duration: 1 semester)
 1. Stereoelectronic Effects (Oxford Chemistry Primers) -- A. J. Kirby      
 
-### Welterweight (101-150 pages)
+### Welterweight (101-150 pages, duration: 1 semester)
 1. Solids and Surfaces: A Chemist's View of Bonding in Extended Structures -- Roald Hoffmann   
 2. Pericyclic Reactions (Oxford Chemistry Primers) -- Ian Flemming
 
-### Light middleweight (151-200 pages)
+### Light middleweight (151-200 pages, duration: 1 semester)
 1. Molecular Symmetry and Group Theory: A Programmed Introduction to Chemical Applications -- Alan Vincent   
 2. Introduction to Crystallography -- Donald E. Sands   
 
-### Middleweight (201-250 pages)
+### Middleweight (201-250 pages, duration: 1 semester)
 1. Grokking Algorithms: An illustrated guide for programmers and other curious people -- Aditya Bhargava   
 
-### Super middleweight (251-300 pages)
+### Super middleweight (251-300 pages, duration: 1 semester)
 1. The VSEPR Model of Molecular Geometry -- Ronald J Gillespie and Istvan Hargittai
 
-### Light heavyweight (301-400 pages)
+### Light heavyweight (301-400 pages, duration: 2 semesters)
 1. Molecular Modelling for Beginners -- Alan Hinchcliffe    
 2. A Chemist's Guide to Density Functional Theory Paperback -- Wolfram Koch, Max C. Holthausen 
 3. Group Theory and Chemistry -- David M. Bishop    
 
-### Cruiserweight (401-500 pages)
+### Cruiserweight (401-500 pages, duration: 2 semesters)
 1. Thermodynamics, Kinetic Theory, and Statistical Thermodynamics -- Sears and Salinger   
 2. A Guidebook to Mechanism in Organic Chemistry Paperback -- Peter Sykes   
 
-### Heavyweight (500+ pages and/or with problem solving) 
+### Heavyweight (500+ pages and/or with problem solving, duration: 2-3 semesters) 
 1. Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory -- Attila Szabo, Neil S. Ostlund   
 2. States of Matter -- David L. Goodstein   
 
