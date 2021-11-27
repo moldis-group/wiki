@@ -26,6 +26,7 @@ Here is a list of books that we use for group reading. A group member participat
 1. Molecular Modelling for Beginners -- Alan Hinchcliffe    
 2. A Chemist's Guide to Density Functional Theory Paperback -- Wolfram Koch, Max C. Holthausen 
 3. Group Theory and Chemistry -- David M. Bishop    
+4. Basic Training in Mathematics: A Fitness Program for Science Students Paperback –- R. Shankar    
 
 ### Cruiserweight (401-500 pages, duration: 2 semesters)
 1. Thermodynamics, Kinetic Theory, and Statistical Thermodynamics -- Sears and Salinger   
