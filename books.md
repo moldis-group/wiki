@@ -31,6 +31,7 @@ Here is a list of books that we use for group reading. A group member participat
 
 ### Heavyweight (500+ pages and/or with problem solving) 
 1. Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory -- Attila Szabo, Neil S. Ostlund   
+2. States of Matter -- David L. Goodstein   
 
 
 
