@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Here is a list of books that we recommend for group reading. A group member completing at least one book from each category may be given the title "Octuple champion".
+Here is a list of books to try for group reading. A group member completing at least one book from each category may be given the title "Octuple champion".
 
 ### Light welterweight
 1. Stereoelectronic Effects (Oxford Chemistry Primers) -- A. J. Kirby      
