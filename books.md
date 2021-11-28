@@ -17,7 +17,8 @@ Here is a list of books to try for group reading.
 2. Introduction to Crystallography -- Donald E. Sands   
 3. Introductory Numerical Analysis -- Anthony J Pettofrezzo   
 4. Introduction to Stereochemistry -- Kurt Mislow   
-5. Symmetry in Chemistry -- Hans H. Jaffe, Milton Orchin    
+5. Symmetry in Chemistry -- Hans H. Jaffe, Milton Orchin   
+6. Probability Theory: A Concise Course -- Iu. A. Rozanov, Richard A. Silverman 
 
 ### Middleweight   
 1. Grokking Algorithms: An illustrated guide for programmers and other curious people -- Aditya Bhargava   
@@ -43,6 +44,7 @@ Here is a list of books to try for group reading.
 1. Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory -- Attila Szabo, Neil S. Ostlund   
 2. States of Matter -- David L. Goodstein   
 3. Physical Chemistry -- Donald A. McQuarrie John D. Simon    
+4. Advanced Calculus -- Gerald B. Folland
 
 
 
