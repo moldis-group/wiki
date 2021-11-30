@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-Here is a list of books to try for group reading. 
+New group members will be asked to read a few articles from this collection and then pursue a mini programming or computational project.
 
-### Techniques               
+### Numerical Techniques               
 1. _Calculation of Matrix Elements for One‐Dimensional Quantum‐Mechanical Problems and the Application to Anharmonic Oscillators_       
 David O. Harris, Gail G. Engerholm, and William D. Gwinn         
 J. Chem. Phys. 43, 1515 (1965)        
@@ -19,6 +19,19 @@ Daniel T. Colbert and William H. Miller
 J. Chem. Phys. 96, 1982 (1992)       
 [https://doi.org/10.1063/1.462100](https://doi.org/10.1063/1.462100)
 
+### Computational chemistry: Methods and applications     
+
+### Crystallography, materials Science, and solid-state physics  
+
+### Machine Learning  
+
+### General Chemistry
+
+### General Mathematics
+
+### General Physics
+
+### General Biology
 
 
 
