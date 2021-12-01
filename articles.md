@@ -29,13 +29,11 @@ Physica Scripta, 87, 048102 (2013)
 
 ### Machine Learning  
 
-### General Chemistry
+### Computation
 
-### General Mathematics
+### Other Topics
 
-### General Physics
 
-### General Biology
 
 
 
