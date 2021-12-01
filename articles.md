@@ -20,7 +20,11 @@ J. Chem. Phys. 96, 1982 (1992)
 [https://doi.org/10.1063/1.462100](https://doi.org/10.1063/1.462100)
 
 ### Computational chemistry: Methods and applications     
-
+1. _Challenging chemical concepts through charge density of molecules and crystals_    
+Carlo Gatti1      
+Physica Scripta, 87, 048102 (2013)       
+[https://doi.org/10.1088/0031-8949/87/04/048102](https://doi.org/10.1088/0031-8949/87/04/048102)      
+  
 ### Crystallography, materials Science, and solid-state physics  
 
 ### Machine Learning  
