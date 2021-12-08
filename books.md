@@ -27,7 +27,10 @@ Here is a list of books to try for group reading. A group member completing a bo
 ### Super middleweight   
 1. The VSEPR Model of Molecular Geometry -- Ronald J Gillespie and Istvan Hargittai    
 2. Fundamentals of Molecular Spectroscopy -- Colin Banwell     
-3. Quantum Mechanics in Simple Matrix Forms -- Thomas F. Jordan    
+3. Bonding and Structure of Molecules and Solids -- David Pettifor    
+4. Quantum Mechanics in Simple Matrix Forms -- Thomas F. Jordan    
+5. Statistical Physics of Biomolecules -- Daniel M. Zuckerman    
+6. Electronic Structure of Materials -- Adrian P. Sutton   
 
 ### Light heavyweight   
 1. Molecular Modelling for Beginners -- Alan Hinchcliffe    
