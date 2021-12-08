@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Here is a list of books to try for group reading. 
+Here is a list of books to try for group reading. A group member completing a book in each category will receive the title "The Octuple Champion" and will be listed permanently in the Hall-of-Frame below this page.
 
 ### Light welterweight
 1. Stereoelectronic Effects (Oxford Chemistry Primers) -- A. J. Kirby      
@@ -47,4 +47,6 @@ Here is a list of books to try for group reading.
 4. Advanced Calculus -- Gerald B. Folland
 
 
+## Hall-of-Fame   
+<img src="assets/img/frame.jpeg"  height="250">
 
